@@ -1,9 +1,7 @@
 # Bruno Silva
 
 Olá meu nome é Bruno, tenho 19 anos e atualmente estou me graduando em Ciências da Computação na Universidade de São Paulo (UNICID), me encontrei na área e estou em busca de aprimorar meus conhecimentos e habilidades seja com projetos ou com leituras de livros.
-
 ---
-
 <p align="center">
     <a href="https://www.linkedin.com/in/brunosilvas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </a> 
