@@ -36,10 +36,5 @@ Olá meu nome é Bruno, tenho 19 anos e atualmente estou me graduando em Ciênci
     style="paddindg-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-<img 
-    title="javascript"
-    width="30px"
-    style="paddindg-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>
+
                              
