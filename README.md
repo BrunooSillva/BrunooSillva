@@ -1,8 +1,9 @@
 # 💫 About Me:
-🎓 Estudante de Ciências da Computação
-🐍 Aprimorando meus conhecimentos em Python e SQL.
-🚀 Sempre evoluindo minhas habilidades técnicas
+🎓 Estudante de Ciências da Computação<br/>
+🐍 Aprimorando meus conhecimentos em Python e SQL.<br/>
+🚀 Sempre evoluindo minhas habilidades técnicas<br/>
 
+# Sociais
 <p align="center">
     <a href="https://www.linkedin.com/in/brunosilvas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </a> 
