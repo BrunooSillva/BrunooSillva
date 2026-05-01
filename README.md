@@ -1,5 +1,7 @@
 # 💫 About Me:
-🎓 Estudante de Ciências da Computação<br/><br>🐍 Aprimorando meus conhecimentos em Python e SQL.<br/><br>🚀 Sempre evoluindo minhas habilidades técnicas<br/>
+🎓 Estudante de Ciências da Computação<br/>
+🐍 Aprimorando meus conhecimentos em Python e SQL.<br/>
+🚀 Sempre evoluindo minhas habilidades técnicas<br/>
 
 
 ## 🌐 Socials:
