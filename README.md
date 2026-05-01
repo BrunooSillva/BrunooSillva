@@ -7,6 +7,9 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/brunosilvas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     </a> 
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bruno12sobrinho@gmail.com)
+
     <a href="https://github.com/BrunooSillva?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
